@@ -1,6 +1,6 @@
 ###############################################################################
 ## Oracle Database 19c - Automated Installation Script                       ##
-## Created by: Dustin K. Redmond (dredmond@gaports.com)                      ##
+## Created by: Dustin K. Redmond (dustin@dustinredmond.com)                  ##
 ## Purpose: Automate Oracle Database 19c installation on Oracle Linux 8.8    ##
 ###############################################################################
 ## Usage:                                                                    ##
